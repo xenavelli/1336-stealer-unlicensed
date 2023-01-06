@@ -17,3 +17,5 @@ this was the webhook that he used to send the tokens to which was deleted shortl
 ![](https://media.discordapp.net/attachments/1053746327026147369/1060721749777461348/image.png?width=1101&height=67) proof of his hidden webhook
 for everyone, he's not "the best logger" he just uses his admin perms to get people in his server and log people
 ukchlein already has a bad rep, please dont run anything from him 
+he even tried logging his owner
+![](https://media.discordapp.net/attachments/1058477388834549842/1060725786690199623/32cpUp.png?width=384&height=203)
