@@ -1,16 +1,19 @@
 # 1336-stealer-unlicensed
 
-a shit skidder stealer operated by by ukchlein#5116 (1056583813968445511)
+a shit dualhooked skidded stealer operated by by ukchlein#5116 (1056583813968445511)
 cracked under 2 min by Aaaaawwwwhhh#4720
 
-will deobf further versions once they release
+# backstory
+this guy had a stealer under the name "1336" and he was giving out free keys
+i couldnt buy it, why would the "the best logger" give out his way of logging people?
 
-# don't ask for help 
-i never made this stealer nor know how it works. please do not open a issue for help, ill simply ignore u.
-
-# disclaimer
-1336 stealer has been around for some time. i only decided to deobf it cause it kinda went unknown.
-just remember the stealer is dualhooked and sends your info to another webhook owned by him. i already spammed it and forced him to delete it
-
-# ukchlein
-this guy always had a bad rep. dont fall for his stealer if he does give out free keys
+so i did what any curious guy would do and dig deeper and that's what i did
+i deobfuscated the code, legit took 2 clicks because it was poorly obfuscated
+it redirects to a paste: https://www.klgrth.io/paste/m4oq9/raw which is the complete source of the stealer
+[](https://imgur.com/a/FKjuGWZ) <- here is a screenshot of ukchlein banning me from every server he was admin in
+https://discord.com/api/webhooks/1058120004190609440/qUd48F2bAiShfqwZ6SXJVlTOWZhcON9Wmi2KSOTziIvk2yyavrlI-ztJUvPpbegwOjtg 
+this was the webhook that he used to send the tokens to which was deleted shortly after i spammed it
+[](https://imgur.com/a/Am509jC) here is a screenshot of him trying to get other people to run it so he can get the tokens
+[](https://imgur.com/a/y1BpGAm) proof of his hidden webhook
+for everyone, he's not "the best logger" he just uses his admin perms to get people in his server and log people
+ukchlein already has a bad rep, please dont run anything from him 
