@@ -1,6 +1,6 @@
 # 1336-stealer-unlicensed
 
-a shit dualhooked skidded stealer operated by by ukchlein#5116 (1056583813968445511)
+a shit dualhooked skidded stealer operated by ukchlein#5116 (1056583813968445511)
 cracked under 2 min by Aaaaawwwwhhh#4720
 
 # backstory
